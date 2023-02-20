@@ -10,3 +10,6 @@ CHECKING THE WORKFLOW WORKING
 
 [![Releases](https://img.shields.io/github/release/AKisling/sem/all.svg?style=flat-square)](https://github.com/AKisling/sem/releases) 
 
+# Software Engineering Methods
+
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/AKisling/sem/Helloworldaction/develop.svg?style=flat-square)
